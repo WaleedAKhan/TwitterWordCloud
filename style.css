@@ -1,0 +1,37 @@
+body{
+	background-color:#b3ecff;	
+}
+
+
+.img-circle{
+	display:inline-block;
+	 border-radius: 100%;	
+}
+
+#latest_wcloud{
+	width:75%;
+    border: 2px solid blue; 
+}
+
+#newestCloud{
+	width:80%;
+    border: 2px solid green; 
+}
+
+.likedCloud{
+	width:75%;
+    border: 2px solid blue; 
+}
+
+.wordCloudLikes{
+	float: left;
+	border: 1px solid blue; 
+	font-size:1em;
+	font-weight:bold;
+}
+
+h1{
+	text-decoration: underline;
+	color: blue;
+	
+}
